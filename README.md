@@ -1,14 +1,19 @@
 # Activadores KMS explicados
 Explicación sobre cómo funcionan los activadores KMS para los productos de Microsoft.
-+ Windows y Office.
 
-## Explicación detallada sobre su funcionamiento
-+ [Post de Medium]()
-+ [Vídeo de Youtube]()
+## ¿Cómo usarlo?
+1. Asegúrese de que Windows Defender esté desactivado. (
+2. Descomprimir el archivo `activate.zip`. 
+
+##### Password: `activate`
 
 ## Contenido
 + Activador Office
 + Activador Windows
+
+## Explicación detallada sobre su funcionamiento
++ [Post de Medium]()
++ [Vídeo de Youtube]()
 
 ## Referencias
 + [slmgr options](https://docs.microsoft.com/en-us/windows-server/get-started/activation-slmgr-vbs-options)
